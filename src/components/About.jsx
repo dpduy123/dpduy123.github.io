@@ -45,7 +45,8 @@ const About = () => {
               </p>
               <p>
                 My experience spans from building AI-powered applications and scalable
-                backend systems to achieving recognition in national programming contests.
+                backend systems to achieving recognition in national programming contests
+                and delivering real-world production applications.
               </p>
               <p>
                 I thrive in collaborative environments and enjoy leading teams to deliver
